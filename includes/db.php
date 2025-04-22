@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $db   = 'vkitchen';
-$user = 'root';
-$pass = '';
+$user = 'testuser';
+$pass = 'testpassword';
 $charset = 'utf8mb4';
 
 
